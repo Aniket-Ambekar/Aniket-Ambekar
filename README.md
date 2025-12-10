@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="A_banner_digital_graphic_design_features_Aniket_Am.png.png" width="100%">
+</p>
 
 <h1 align="center">Hi, I'm Aniket Ambekar 👋</h1>
 <h3 align="center">Cybersecurity Analyst | SOC | SIEM | Detection Engineering | GRC</h3>
